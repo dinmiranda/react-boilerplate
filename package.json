@@ -30,7 +30,7 @@
     "lodash": "^3.10.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-redux": "^5.0.7",
+    "react-redux": "^5.1.2",
     "react-router": "^2.0.1",
     "redux": "^3.7.2",
     "redux-logger": "^3.0.1",
